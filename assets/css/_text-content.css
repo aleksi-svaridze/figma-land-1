@@ -1,0 +1,18 @@
+.text-content {
+    margin: 138px auto 93px;
+    width: 700px;
+    text-align: center;
+}
+.brand-title {
+    font-size: 80px;
+    line-height: 88px;
+    letter-spacing: 0.2px;
+}
+.brand-description {
+    width: 582px;
+    margin: 37px auto 0;
+    font-weight: 400;
+    font-size: 20px;
+    line-height: 30px;
+    letter-spacing: 0.2px;
+}
